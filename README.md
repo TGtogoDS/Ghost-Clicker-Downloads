@@ -5,8 +5,7 @@
 [![License](https://img.shields.io/badge/license-Proprietary-orange?style=flat-square)](#)
 
 Welcome to the official download repository for **Ghost Clicker Pro**—the ultimate, next-generation kernel-aware automation utility for Windows. 
-
-Designed for raw performance, sub-millisecond precision, and absolute stealth, Ghost Clicker features a stunning, modern flat UI with an elegant borderless transparent glowing neon **"G"** identity.
+Designed for raw performance, sub-millisecond precision
 
 ---
 
